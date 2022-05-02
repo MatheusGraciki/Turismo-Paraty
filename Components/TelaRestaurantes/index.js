@@ -11,6 +11,7 @@ import { ScrollView } from 'react-native-gesture-handler';
 export default function TelaRestaurante() {
   return (
   <ScrollView>
+  
     <View style={styles.container}>
      
       <Text style={styles.titulo}>
