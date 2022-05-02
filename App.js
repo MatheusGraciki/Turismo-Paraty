@@ -1,20 +1,30 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
+import { React } from 'react';
+import { View,Text,Button,Image } from 'react-native';
+import TelaInicial from './Components/TelaInicial';
+import TelaRestaurantes from './Components/TelaRestaurantes'
+import TelaPasseios from './Components/TelaPasseios'
+import TelaHospedagem from './Components/TelaHospedagem'
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+
+const Stack = createStackNavigator();
+
+export default function App(){
+  return(
+    
+    <NavigationContainer>
+      
+      <Stack.Navigator screenOptions={{headerStyle: {
+            height: 45, 
+            backgroundColor: 'white',  }, }} > 
+
+          <Stack.Screen name="Tela inicial" component = {TelaInicial}/>
+          <Stack.Screen name="Restaurantes" component = {TelaRestaurantes}/>
+          <Stack.Screen name="Passeios" component = {TelaPasseios}/>
+          <Stack.Screen name="Hospedagem" component = {TelaHospedagem}/>
+      </Stack.Navigator>
+
+    </NavigationContainer>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
