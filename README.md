@@ -24,7 +24,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Um aplicativo mobile criado com a inteção de testar e aperfeiçoar minhas habilidades com React Native
+  Um aplicativo mobile criado com a inteção de testar e aperfeiçoar minhas habilidades com React Native, o aplicativo tem como objetivo apresentar os principais restaurantes, pontos turisticos e hospedagem da região ao usuário.
 </p>
 
 <br/>
