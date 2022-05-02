@@ -17,11 +17,10 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Fotos da aplicativo](#deploy-da-aplicação-dash)
-
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+<br/>
 
 ## Descrição do projeto 
 
@@ -29,23 +28,28 @@
   Um aplicativo mobile criado com a inteção de testar e aperfeiçoar minhas habilidades com React Native
 </p>
 
+<br/>
+
 ## Funcionalidades
 
 :heavy_check_mark: Exibiçao dos principais restaurantes da região. <br/>
 :heavy_check_mark: Exibição dos  principais pontos turisticos da região.<br/>
 :heavy_check_mark: Exibição de hospedagens da região.
 
+<br/>
 
-
-## Fotos da aplicativo :dash:
+## Fotos do aplicativo 
 
 ![image](https://user-images.githubusercontent.com/85004422/166172470-8821b753-6c28-4229-8cd8-3d98ce611e42.png)
 ![image](https://user-images.githubusercontent.com/85004422/166172760-e13388bd-419f-4ef0-9462-123a81b76c7c.png)
+
+<br/>
 
 ## Pré-requisitos
 
 :warning: [Node](https://nodejs.org/en/download/) <br/>
 :warning: [Expo](https://docs.expo.dev/get-started/installation/)
+<br/>
 
 ## Como rodar a aplicação :arrow_forward:
 
