@@ -8,6 +8,7 @@ import { StyleSheet } from 'react-native';
         marginTop:50,
         marginHorizontal:40,
         justifyContent: 'center',
+        borderTopWidth: 0.8
         
 
     
