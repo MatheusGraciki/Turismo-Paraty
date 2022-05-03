@@ -8,7 +8,7 @@
    
 </p>
 
-> Status do Projeto: Em Desenvolvimento ⚠️
+> Status do Projeto: Concluido ✔️
 
 ### Tópicos 
 
