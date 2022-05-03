@@ -33,14 +33,22 @@
 
 :heavy_check_mark: Exibiçao dos principais restaurantes da região. <br/>
 :heavy_check_mark: Exibição dos  principais pontos turisticos da região.<br/>
-:heavy_check_mark: Exibição de hospedagens da região.
+:heavy_check_mark: Exibição de hospedagens da região.<br/>
+:heavy_check_mark: Tradução EN e PT-BR
 
 <br/>
 
 ## Fotos do aplicativo 
 
-![image](https://user-images.githubusercontent.com/85004422/166172470-8821b753-6c28-4229-8cd8-3d98ce611e42.png)
-![image](https://user-images.githubusercontent.com/85004422/166172760-e13388bd-419f-4ef0-9462-123a81b76c7c.png)
+![image](https://user-images.githubusercontent.com/85004422/166407698-6b3ce9ca-f1be-47cb-b853-f3a8dd26202a.png)
+![image](https://user-images.githubusercontent.com/85004422/166407563-9f67b1e8-9b90-4c1a-b401-1a916fdc6f51.png)
+![image](https://user-images.githubusercontent.com/85004422/166407718-bb0ce953-1cec-4e87-8da0-edbf296b2dff.png)
+![image](https://user-images.githubusercontent.com/85004422/166407744-53735798-bd8b-4db6-a77c-bade491d78dd.png)
+![image](https://user-images.githubusercontent.com/85004422/166407778-572787c4-f5c0-44ea-bad5-d8ae29d5986d.png)
+
+
+
+
 
 <br/>
 
