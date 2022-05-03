@@ -14,6 +14,7 @@ const styles = StyleSheet.create({
     },
     
     titulo:{
+        
         fontSize: 20,
         textAlign: "center",
         fontWeight: 'bold',
@@ -45,6 +46,7 @@ const styles = StyleSheet.create({
     },
 
     tituloCard:{
+        marginTop: 1,
         fontWeight: 'bold',
         }
     
