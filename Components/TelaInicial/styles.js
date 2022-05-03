@@ -1,14 +1,14 @@
 import { StyleSheet } from 'react-native';
  const styles = StyleSheet.create({
     container:{
-
+        
         borderWidth: 0.5,
         borderRadius:5,
         alignItems: 'center',
         marginTop:50,
         marginHorizontal:40,
         justifyContent: 'center',
-        borderTopWidth: 0.8
+        borderTopWidth: 0.8,
         
 
     
@@ -27,42 +27,40 @@ import { StyleSheet } from 'react-native';
         marginTop: 20,
         width: 255,
         height:150,
-        marginBottom: 15,
+        marginBottom:20,
+        
       
 
     },
-    
-    botao:{ 
 
+    
+    
+
+    buttons:{
         backgroundColor: "#382d00",
-       
-        marginBottom: 15,
-
-
-   
+        width:255,
+        height:35,
+        borderRadius:15,
+        justifyContent:'center',
+        alignItems: 'center',
+        marginBottom:20
         
-    },
 
-    buttonrestaurantestextstyle:{
-        color: 'white',
-        paddingVertical:6,
-        paddingHorizontal: 62,
+        
     
     },
+    buttontext:{ 
+        color:'white',
+        fontWeight: '500',
+        textAlign: 'center'
 
-    buttonpasseiostextstyle:{
-        color: 'white',
-        paddingVertical:6,
-        paddingHorizontal: 82,
-    
     },
+    imgbutton:{
+        height:50,
+        width:50
 
-    buttonhospedagemtextstyle:{
-        color: 'white',
-        paddingVertical:6,
-        paddingHorizontal: 68,
-    
     },
+    
 
  }) 
  
