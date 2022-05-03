@@ -16,8 +16,8 @@ export default function App(){
     <NavigationContainer>
       
       <Stack.Navigator screenOptions={{headerStyle: {
-            height: 65, 
-            backgroundColor: 'white',  }, }} > 
+          height: 65, 
+          backgroundColor: 'white',  }, }} > 
 
           <Stack.Screen name="Tela inicial" component = {TelaInicial}/>
           <Stack.Screen name="Restaurantes" component = {TelaRestaurantes}/>

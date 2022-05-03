@@ -1,0 +1,49 @@
+{ 
+    "title": "Paraty",
+    "subtitle": "Saiba o que visitar em Paraty.",
+    "buttonr": "Ver Restaurante",
+    "buttonp": "Ver Passeios",
+    "buttonh": "Ver Hospedagem",
+
+    "titleRestaurante": "Bares e Restaurante",
+    "descricaoRestaurante": "O prazer da boa comida você encontra em Paraty. Com inúmeras opções de restaurantes, a cidade oferece o melhor da culinária internacional Confira alguns bares e restaurantes famosos.",
+    "tituloRestaurante1": "ARMAZÉN MAR",
+    "Localizacao1": "Localização: Rod Rio-Santos",
+
+    "tituloRestaurante2": "BENDITA'S RESTAURANTE",
+    "Localizacao2": "Localização: Centro Histórico",
+
+    "tituloRestaurante3": "SEREIA DO MAR PIZZA-BAR",
+    "Localizacao3": "Localização: Praia do Jabaquara",
+
+    "titlePasseios": "Passeios em Paraty",
+    "descricaoPasseios": " O município de Paraty está quase inteiro em área de parques e de preservação ambiental. Muitas são as opções de passeios para quem curte a natureza: passeios de jeep, de bike, caminhadas por trilhas entre outros. Veja dois exemplos:",
+
+    "cardTitle1": "Tirolesa",
+    "cardTitle2": "Rafting",
+    "cardTitle3": "Canoagem no mangue",
+    
+    "titleHospedagem": " Pousadas e Hotéis em Paraty",
+    "descricaoHospedagem": "Paraty conta com excelentes hoteis e pousadas cujos preços podem variar de R$200,00 à R$1500,00. Veja algumas pousadas abaixo.",
+    
+    "titlePousada1": "Pousada Missanga",
+    "precoPousada1": "Valor médio: R$350,00",
+    "localizacao1": "Localização: Próx. à Av.Roberto Silveira",
+
+    "titlePousada2": "Pousada Morro do Forte",
+    "precoPousada2": "Valor médio: R$450,00",
+    "localizacao2": "Localização: Próximo à Praia - Pontal",
+
+    "titlePousada3": "Pousada  Porto Imperial",
+    "precoPousada3": "Valor médio: R$550,00",
+    "localizacao3": "Localização: Praia do Jabaquara"
+
+
+
+    
+    
+
+    
+
+}
+

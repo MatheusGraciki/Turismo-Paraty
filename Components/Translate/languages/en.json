@@ -1,0 +1,44 @@
+{ 
+    "title": "Paraty",
+    "subtitle": "Know what to visit in Paraty.",
+    "buttonr": "See Restaurant",
+    "buttonp": "See Tour",
+    "buttonh": "See Hosting",
+
+    "titleRestaurante": "Bars and Restaurant",
+    "descricaoRestaurante": "The pleasure of good food can be found in Paraty. With numerous dining options, the city offers the best of international cuisine Check out some famous bars and restaurants.",
+
+    "tituloRestaurante1": "ARMAZÉN MAR",
+    "Localizacao1": "Localization: Highway Rio-Santos",
+
+    "tituloRestaurante2": "BENDITA'S RESTAURANTE",
+    "Localizacao2": "Localization: Historic Center",
+
+    "tituloRestaurante3": "SEREIA DO MAR PIZZA-BAR",
+    "Localizacao3": "Localization: Beach of Jabaquara",
+
+    "titlePasseios": "Tours in Paraty",
+    "descricaoPasseios": "The municipality of Paraty is almost entirely in an area of ​​parks and environmental preservation. There are many options for tours for those who enjoy nature: jeep rides, bike rides, hiking trails, among others. See two examples",
+
+    "cardTitle1": "Zipline",
+    "cardTitle2": "Rafting",
+    "cardTitle3": "Canoeing in the mangrove",
+
+    "titleHospedagem": " Hotels in Paraty",
+    "descricaoHospedagem": "Paraty has excellent hotels whose prices can vary from $40,00 to $295,00. See some hotels below.",
+
+    "titlePousada1": "inn Missanga",
+    "precoPousada1": "Average value:$69,00",
+    "localizacao1": "Localization: Near to Av.Roberto Silveira",
+
+    "titlePousada2": "inn Morro do Forte",
+    "precoPousada2": "Average value:$89,00",
+    "localizacao2": "Localization: Near to Beach - Pontal",
+
+    "titlePousada3": "inn  Porto Imperial",
+    "precoPousada3": "Average value:$109,00",
+    "localizacao3": "Localization: Near to Beach Jabaquara"
+
+   
+
+}
