@@ -20,15 +20,15 @@ export default function TelaInicial(props){
 
     const list = [
         {
-            title: 'portugues',
+            title: 'Português',
             onPress: () => setLanguage('br')
         },
         {
-            title: 'ingles',
+            title: 'English',
             onPress: () => setLanguage('en')
         },
         {
-            title: 'fechar',
+            title: 'Fechar',
             containerStyle: { backgroundColor: '#0071bc' },
             titleStyle: { color: 'white' },
             onPress: () => setIsVisible(false),
